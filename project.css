@@ -1,0 +1,18 @@
+#header {
+    background-image: url("https://source.unsplash.com/D6Tu_L3chLE");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#middle {
+    background-image: url("https://source.unsplash.com/c6zenQDVavc");
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#last {
+    background-image: url("https://source.unsplash.com/IzIRajJQgxU");
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
